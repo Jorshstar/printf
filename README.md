@@ -1,5 +1,6 @@
 ![233CA0A6-976A-43DE-BCCC-670442922ECC](https://user-images.githubusercontent.com/111021615/196267886-584d267d-6e9e-42c3-a36e-0ad560cc0e44.jpeg)
-# WRITINH OUR OWN PRINTF FUNCTION
+
+# WRITINg OUR OWN PRINTF FUNCTION
 
 # AUTHOR
 [Joshua Akinbode](https://github.com/Jorshstar) and [Gift John](https://github.com/Giftimeless)
@@ -8,7 +9,9 @@
 # Resources
 ### Read or watch:
 . [Secrets of printf](https://academia.edu)
+
 . Group Projects Concepts page
+
 . Flowcharts Concept page
 
 # Requirements
@@ -37,7 +40,7 @@
 	. va_arg (man 3 va_arg)
 
 # Compilation
-	. Your code will be compiled this way:
-$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
+	 Your code will be compiled this way:
+	. $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 	. As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all your tests files including main functions)
 
