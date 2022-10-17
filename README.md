@@ -1,6 +1,6 @@
 ![233CA0A6-976A-43DE-BCCC-670442922ECC](https://user-images.githubusercontent.com/111021615/196267886-584d267d-6e9e-42c3-a36e-0ad560cc0e44.jpeg)
 
-# WRITINg OUR OWN PRINTF FUNCTION
+# WRITING OUR OWN PRINTF FUNCTION
 
 # AUTHOR
 [Joshua Akinbode](https://github.com/Jorshstar) and [Gift John](https://github.com/Giftimeless)
